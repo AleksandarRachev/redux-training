@@ -1,0 +1,11 @@
+.product-add {
+    margin: 10rem 0 0 20%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 55%; 
+    text-align: center;
+    align-items: center;
+    border-radius: 20px;
+    padding: 2rem 0;
+}
