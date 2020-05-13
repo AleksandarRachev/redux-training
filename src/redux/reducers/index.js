@@ -3,8 +3,8 @@ import cartReducer from "./Cart/cart.reducer";
 import { combineReducers } from "redux";
 
 const allReducers = combineReducers({
-  productReducer,
-  cartReducer,
+  product: productReducer,
+  cart: cartReducer,
 });
 
 export default allReducers;
